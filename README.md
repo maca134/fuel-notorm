@@ -1,6 +1,8 @@
 NotORM
 ======
 
+This is still a working progress, its about 95% complete, most commenting everything and stuff up.
+
 This is a wrapper package for [NotORM](http://www.notorm.com). The code has been slightly adjusted to be compatible with FuelPHP model generation.
 
 Compared to the FuelPHP ORM package, its about twice as fast.
